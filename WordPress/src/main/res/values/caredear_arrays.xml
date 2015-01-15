@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_names">
+        <item>新闻八卦</item>
+        <item>最省钱</item>
+        <item>幽默搞笑</item>
+        <item>美食菜谱</item>
+        <item>养生之道</item>
+        <item>广场健身</item>
+        <item>儿孙百科</item>
+        <item>骗术揭秘</item>
+        <item>花卉宠物</item>
+        <item>图文电影</item>
+    </string-array>
+</resources>

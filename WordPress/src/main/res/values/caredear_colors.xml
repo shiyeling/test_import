@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cd1_primary_background">#ffefefef</color>
+    <color name="cd1_primary_text">#ff3d3d3d</color>
+    <color name="cd1_subsidiary_gray_7">#ffb6b6b6</color>
+    <color name="cd1_subsidiary_gray_13">#ffeeeeee</color>
+    <color name="cd1_subsidiary_black_alpha_5">#26000000</color>
+
+</resources>

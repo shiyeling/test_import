@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cd_layout_title"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/cd1_title_height"
+    android:layout_gravity="top"
+    android:background="@color/cd1_primary_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/cd_title_avatar_large"
+            android:layout_width="68dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|left"
+            android:background="@drawable/cd1_button_bg"
+            android:padding="10dp"
+            android:clickable="false"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:id="@+id/cd_title_text_center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxWidth="200dp"
+            android:singleLine="true"
+            android:textAppearance="@style/CD1.TextAppearance" >
+        </TextView>
+
+        <ImageButton
+            android:id="@+id/cd_title_btn_right"
+            android:layout_width="68dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|right"
+            android:background="@drawable/cd1_button_bg"
+            android:padding="10dp"
+            android:clickable="false"
+            android:scaleType="centerInside" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/cd_title_divider"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/cd1_subsidiary_gray_7"
+        android:focusable="false" >
+    </View>
+
+</LinearLayout>

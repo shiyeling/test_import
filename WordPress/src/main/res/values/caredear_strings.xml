@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cd_app_name">生活圈</string>
+    <string name="category_xwbg">新闻八卦</string>
+    <string name="category_zsq">最省钱</string>
+    <string name="category_ymgx">幽默搞笑</string>
+    <string name="category_mscp">美食菜谱</string>
+    <string name="category_yszd">养生之道</string>
+    <string name="category_gcjs">广场健身</string>
+    <string name="category_esbk">儿孙百科</string>
+    <string name="category_psjm">骗术揭秘</string>
+    <string name="category_hhcw">花卉宠物</string>
+    <string name="category_twdy">图文电影</string>
+
+    <string name="toast_login_fail">请检查网络</string>
+
+</resources>
